@@ -43,5 +43,5 @@ Before pursuing a Ph.D. in finance I did a Bachelor and an MBA in Finance at Lav
 
 I invested myself in computer programming from a young age. I now mainly focus on the R statistical language, and I am a proponent of open source software and reproducible research. I am the author and co-author several R packages including the MSGARCH, NSE, and Sentometrics package. 
 
-When I am not doing research or side project, I indulge myself in books from a wide variety of class such as financial history, biography, psychology, and sci-fi.
+When I am not doing research or side project, I indulge myself in books from a wide variety of genres such as financial history, biography, psychology, and sci-fi.
 
