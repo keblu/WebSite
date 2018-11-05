@@ -31,7 +31,7 @@ weight = 5
 [[education.courses]]
   course = "BSc in Finance"
   institution = "Laval University"
-  year = 2008
+  year = 2010
  
 +++
 
