@@ -19,7 +19,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "International Journal of Forecasting, Forthcoming"
-publication_short = "In *International Journal of Forecasting, Forthcoming"
+publication_short = "In International Journal of Forecasting, Forthcoming"
 
 # Abstract and optional shortened version.
 abstract = "Modern calculation of textual sentiment involves a myriad of choices for the actual calibration. We introduce a general sentiment engineering framework that optimizes the design for forecasting purposes. It includes the use of the elastic net for sparse data-driven selection and weighting of thousands of sentiment values. These values are obtained by pooling the textual sentiment values across publication venues, article topics, sentiment construction methods, and time. We apply the framework to investigate the added value of textual analysis-based sentiment indices for forecasting economic growth in the US. We find that, compared to the use of high-dimensional forecasting techniques based on only economic and financial indicators, the additional use of optimized news-based sentiment values yields significant accuracy gains in forecasting the nine-month and annual growth rates of the US industrial production."

@@ -18,8 +18,8 @@ authors = ["David Ardia","Keven Bluteau","Kris Boudt", "Leopoldo Catania" ]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "International Journal of Forecasting, Vol 34, Issue 4, pp. 733-747, 2018"
-publication_short = "In International Journal of Forecasting, Vol 34, Issue 4, pp. 733-747, 2018"
+publication = "International Journal of Forecasting, Vol 34, Issue 4, pp. 733-747"
+publication_short = "In International Journal of Forecasting, Vol 34, Issue 4, pp. 733-747"
 
 # Abstract and optional shortened version.
 abstract = "We perform a large-scale empirical study to compare the forecasting performance of single-regime and Markov-switching GARCH (MSGARCH) models from a risk management perspective. We find that, for daily, weekly, and ten-day equity log-returns, MSGARCH models yield more accurate Value-at-Risk, Expected Shortfall, and left-tail distribution forecasts than their single-regime counterpart. Also, our results indicate that accounting for parameter uncertainty improves left-tail predictions, independently of the inclusion of the Markov-switching mechanism."

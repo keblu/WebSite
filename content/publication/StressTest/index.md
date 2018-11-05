@@ -18,8 +18,8 @@ authors = ["David Ardia","Keven Bluteau"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Wilmott Magazine, Vol. 87, pp. 52-55, 2017"
-publication_short = "Wilmott Magazine, Vol. 87, pp. 52-55, 2017"
+publication = "Wilmott Magazine, Vol. 87, pp. 52-55"
+publication_short = "Wilmott Magazine, Vol. 87, pp. 52-55"
 
 # Abstract and optional shortened version.
 abstract = "We propose a simple methodology to simulate scenarios from a parametric risk model while accounting for stress-test views via fully flexible probabilities (Meucci, 2010, 2013)."

@@ -19,8 +19,8 @@ authors = ["David Ardia","Keven Bluteau"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Journal of Open Source Software, Vol. 10, No. 2, 2017"
-publication_short = "Journal of Open Source Software, Vol. 10, No. 2, 2017"
+publication = "Journal of Open Source Software, Vol. 10, No. 2"
+publication_short = "Journal of Open Source Software, Vol. 10, No. 2"
 
 # Abstract and optional shortened version.
 abstract = "NSE is an R package for computing the numerical standard error (NSE), an estimate of the standard deviation of a simulation result if the simulation experiment were to be repeated many times. The package provides a set of wrappers around several R packages, which give access to more than thirty estimators, including batch means estimators (Geyer (1992 Section 3.2), initial sequence estimators (Geyer (1992 Equation 3.3), spectrum at zero estimators (Heidelberger and Welch (1981),Flegal and Jones (2010), heteroskedasticity and autocorrelation consistent (HAC) kernel estimators (Newey and West (1987), Andrews (1991), Andrews and Monahan (1992), Newey and West (1994), Hirukawa (2010), and bootstrap estimators Politis and Romano (1992), Politis and Romano (1994), Politis and White (2004)."

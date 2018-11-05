@@ -18,8 +18,8 @@ authors = ["David Ardia","Keven Bluteau","Lennart F. Hoogerheide"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Journal of Time Series Econometrics, Vol. 10, No. 2, pp.1-9, 2018"
-publication_short = "Journal of Time Series Econometrics, Vol. 10, No. 2, pp.1-9, 2018"
+publication = "Journal of Time Series Econometrics, Vol. 10, No. 2, pp.1-9"
+publication_short = "Journal of Time Series Econometrics, Vol. 10, No. 2, pp.1-9"
 
 # Abstract and optional shortened version.
 abstract = "Numerical standard error (NSE) is an estimate of the standard deviation of a simulation result if the simulation experiment were to be repeated many times. We review standard methods for computing NSE, and perform a Monte Carlo experiments to compare their performance in the case of high/extreme autocorrelation. In particular, we propose an application to risk management where we assess the precision of the Value–at–Risk measure when the underlying risk model is estimated by simulation–based methods. Overall, HAC estimators with prewhitening perform best in the presence of large/extreme autocorrelation."
