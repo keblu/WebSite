@@ -48,7 +48,7 @@ projects = ["MSGARCH"]
 tags = ["Bitcoin", "GARCH", "MSGARCH","Value-at-Risk", "Backtesting", "Bayesian"]
 
 # Links (optional).
-url_pdf = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3180830"
+url_pdf = "https://www.sciencedirect.com/science/article/pii/S1544612318303970"
 url_custom = [{name = "SSRN", url = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3180830"}]
 
 # Custom links (optional).
