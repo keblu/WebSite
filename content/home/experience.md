@@ -21,7 +21,7 @@ date_format = "January 2006"
 [[experience]]
   title = "Quantitative analyst"
   company = "Lakeroad asset management"
-  company_url = ""
+  company_url = "http://lakeroad.ca/"
   location = "Québec, Canada"
   date_start = "2015-08-01"
   date_end = "2015-12-31"
@@ -30,7 +30,7 @@ date_format = "January 2006"
 
 [[experience]]
   title = "Teaching Assistant"
-  company = "Neuchâtel University"
+  company = "University of Neuchâtel"
   company_url = "https://www.unine.ch/iaf"
   location = "Neuchâtel, Switzerland"
   date_start = "2016-01-01"

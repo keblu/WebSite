@@ -37,7 +37,7 @@ weight = 5
 
 # Biography
 
-I am currently pursuing a joint Ph.D. in Finance at the University of Neuchatel and Vrije Universiteit Brussel with a focus on modeling latent variables in economics and finance under the care of Prof. David Ardia and Prof. Kris Boudt. More specifically, my thesis focuses on the modeling of latent state in volatility via Markov-switching GARCH model and the use of textual sentiment measure to forecast economic and financial variables.
+I am currently pursuing a joint Ph.D. in Finance at the University of Neuchâtel and Vrije Universiteit Brussel with a focus on modeling latent variables in economics and finance under the care of Prof. David Ardia and Prof. Kris Boudt. More specifically, my thesis focuses on the modeling of latent state in volatility via Markov-switching GARCH model and the use of textual sentiment measure to forecast economic and financial variables.
 
 Before pursuing a Ph.D. in finance I did a Bachelor and an MBA in Finance at Laval University. I also worked at Lakeroad asset management as a quantitative analyst focusing on enhancing the portfolio risk/return profile before ultimately deciding on improving myself as a scientific researcher via a Ph.D.
 
