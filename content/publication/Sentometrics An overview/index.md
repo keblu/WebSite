@@ -1,6 +1,6 @@
 +++
 title = "Sentometrics: An overview"
-date = 2018-11-18T00:00:00
+date = 2018-10-18T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -13,7 +13,7 @@ authors = ["Andres Algaba", "David Ardia", "Keven Bluteau", "Samuel Borms", "Kri
 # 2 = Journal article
 # 3 = Manuscript
 # 4 = Report
-# 5 = Book
+# 5 = Book 
 # 6 = Book section
 publication_types = ["2"]
 
@@ -23,7 +23,7 @@ publication_short = "Working Paper"
 
 # Abstract and optional shortened version.
 abstract = "The advent of massive amounts of textual, auditive and visual data has spurred a new strand of econometric research which investigates the transformation of qualitative sentiment data into quantitative sentiment variables, and their subsequent application in an econometric analysis of the relationships between variables. We survey this emerging research field and refer to it as sentometrics, which is a composition of sentiment and econometrics. We provide an overview of the generic steps in a typical sentometrics analysis. For each of those steps, we summarize the relevant literature, discuss the available software, and point to some interesting research questions for future research."
-
+abstract_short = ""
 
 # Is this a selected publication? (true/false)
 selected = false

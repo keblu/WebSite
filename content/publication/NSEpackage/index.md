@@ -2,7 +2,7 @@
 title = "NSE: Computation of Numerical Standard Errors in R"
 
 date = 2017-08-06T00:00:00
-draft = true
+draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["David Ardia","Keven Bluteau"]
@@ -50,10 +50,6 @@ tags = ["bootstrap", "HAC kernel" ," numerical standard error (NSE)", "Monte Car
 
 # Links (optional). 
 url_pdf = "http://joss.theoj.org/papers/10.21105/joss.00172"
-url_custom = [
-{name = "SSRN", url = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2911549"},
-{name = "CRAN", url = "https://CRAN.R-project.org/package=nse"},
-{name = "Github", url = "https://github.com/keblu/nse"}]
 
 
 # Custom links (optional).
@@ -67,12 +63,5 @@ math = true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-[image]
-  # Caption (optional)
-  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
-
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
 +++
 

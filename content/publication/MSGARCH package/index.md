@@ -2,7 +2,7 @@
 title = "Markov-Switching GARCH Models in R: The MSGARCH Package"
 
 date = 2018-05-31T00:00:00
-draft = true
+draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["David Ardia","Keven Bluteau","Kris Boudt", "Leopoldo Catania", "Denis-Alexandre Trottier"]
