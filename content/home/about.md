@@ -37,11 +37,11 @@ weight = 5
 
 # Biography
 
-I am currently pursuing a joint PhD in Finance at the University of Neuchatel and Vrije Universiteit Brussel with a focus on modeling latent variables in economics and finance under the care of Prof. David Ardia and Prof. Kris Boudt. More specifically, my thesis focus on the modeling of latent state in volatility via Markov-switching GARCH model and the use of textual sentiment measure to forecast economic and financial variables. 
+I am currently pursuing a joint Ph.D. in Finance at the University of Neuchatel and Vrije Universiteit Brussel with a focus on modeling latent variables in economics and finance under the care of Prof. David Ardia and Prof. Kris Boudt. More specifically, my thesis focuses on the modeling of latent state in volatility via Markov-switching GARCH model and the use of textual sentiment measure to forecast economic and financial variables.
 
-Before pursuing a PhD in Finance I did a Bachelor and an MBA in Finance at Laval University. I also worked at Lakeroad asset management as a quantitative analyst focusing on enhancing the portfolio risk/return profile before ultimatly deciding on enhancing myself as a scientific researcher via a PhD.
+Before pursuing a Ph.D. in finance I did a Bachelor and an MBA in Finance at Laval University. I also worked at Lakeroad asset management as a quantitative analyst focusing on enhancing the portfolio risk/return profile before ultimately deciding on improving myself as a scientific researcher via a Ph.D.
 
-I always invested myself into computer programming from a young age. I now mainly focus on the R statistical language and I am a propenant of open source software and reproducable research. I authors and co-author several R package including the MSGARCH, NSE, and Sentometrics package. 
+I always invested myself in computer programming from a young age. I now mainly focus on the R statistical language, and I am a proponent of open source software and reproducible research. I am the author and co-author several R packages including the MSGARCH, NSE, and Sentometrics package. 
 
 When I am not doing research or side project, I indulge myself in books from a wide variety of class such as financial history, biography, psychology, and sci-fi.
 

@@ -25,7 +25,7 @@ date_format = "January 2006"
   location = "Québec, Canada"
   date_start = "2015-08-01"
   date_end = "2015-12-31"
-  description = """Develop and maintain quantitative financial models with Excel, VBA, R and Matlab  Analyse and develop various portfolio strategy"""
+  description = """Developed and maintained quantitative financial models using Excel, VBA, R, and Matlab.  Analyzed and developed various portfolio strategies."""
 
 
 [[experience]]
@@ -35,6 +35,6 @@ date_format = "January 2006"
   location = "Neuchâtel, Switzerland"
   date_start = "2016-01-01"
   date_end = ""
-  description = """Support student and teacher for the Fixed Income and Derivatives Course. Assist in supervising master student thesis.  """
+  description = """Support students and professor for the Fixed Income and Derivatives Course. Assist in supervising master student level thesis."""
 
 +++

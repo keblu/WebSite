@@ -50,7 +50,10 @@ tags = ["bootstrap", "HAC kernel" ," numerical standard error (NSE)", "Monte Car
 
 # Links (optional). 
 url_pdf = "http://joss.theoj.org/papers/10.21105/joss.00172"
-
+url_custom = [
+{name = "SSRN", url = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2911549"},
+{name = "CRAN", url = "https://cran.r-project.org/package=nse"},
+{name = "Github", url = "https://github.com/keblu/nse"}]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
