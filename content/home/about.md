@@ -41,7 +41,7 @@ I am currently pursuing a joint Ph.D. in Finance at the University of Neuchâtel
 
 Before pursuing a Ph.D. in finance I did a Bachelor and an MBA in Finance at Laval University. I also worked at Lakeroad asset management as a quantitative analyst focusing on enhancing the portfolio risk/return profile before ultimately deciding on improving myself as a scientific researcher via a Ph.D.
 
-I always invested myself in computer programming from a young age. I now mainly focus on the R statistical language, and I am a proponent of open source software and reproducible research. I am the author and co-author several R packages including the MSGARCH, NSE, and Sentometrics package. 
+I invested myself in computer programming from a young age. I now mainly focus on the R statistical language, and I am a proponent of open source software and reproducible research. I am the author and co-author several R packages including the MSGARCH, NSE, and Sentometrics package. 
 
 When I am not doing research or side project, I indulge myself in books from a wide variety of class such as financial history, biography, psychology, and sci-fi.
 
