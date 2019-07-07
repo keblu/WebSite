@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>econometrics on Keven Bluteau</title>
+    <link>/tags/econometrics/</link>
+    <description>Recent content in econometrics on Keven Bluteau</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Keven Bluteau 2018</copyright>
+    <lastBuildDate>Thu, 18 Oct 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/econometrics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sentometrics: An overview</title>
+      <link>/publication/sentometrics-an-overview/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/sentometrics-an-overview/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

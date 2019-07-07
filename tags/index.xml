@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Keven Bluteau</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Keven Bluteau</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Keven Bluteau 2018</copyright>
+    <lastBuildDate>Wed, 18 Jul 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> abnormal tone</title>
+      <link>/tags/abnormal-tone/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/abnormal-tone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> event-study</title>
+      <link>/tags/event-study/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/event-study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> numerical standard error (NSE)</title>
+      <link>/tags/numerical-standard-error-nse/</link>
+      <pubDate>Sun, 06 Aug 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/numerical-standard-error-nse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Backtesting</title>
+      <link>/tags/backtesting/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/backtesting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian</title>
+      <link>/tags/bayesian/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bitcoin</title>
+      <link>/tags/bitcoin/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/bitcoin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bootstrap</title>
+      <link>/tags/bootstrap/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/bootstrap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expected Shortfall</title>
+      <link>/tags/expected-shortfall/</link>
+      <pubDate>Tue, 14 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/expected-shortfall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fully flexible probabilities</title>
+      <link>/tags/fully-flexible-probabilities/</link>
+      <pubDate>Tue, 24 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/fully-flexible-probabilities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GARCH</title>
+      <link>/tags/garch/</link>
+      <pubDate>Tue, 14 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/garch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HAC kernel</title>
+      <link>/tags/hac-kernel/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/hac-kernel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MSGARCH</title>
+      <link>/tags/msgarch/</link>
+      <pubDate>Tue, 14 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/msgarch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markov chain Monte Carlo (MCMC)</title>
+      <link>/tags/markov-chain-monte-carlo-mcmc/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/markov-chain-monte-carlo-mcmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markov-switching</title>
+      <link>/tags/markov-switching/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/markov-switching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monte Carlo</title>
+      <link>/tags/monte-carlo/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/monte-carlo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Penalized Regression</title>
+      <link>/tags/penalized-regression/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/penalized-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/tags/r/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R software</title>
+      <link>/tags/r-software/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/r-software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stress-testing</title>
+      <link>/tags/stress-testing/</link>
+      <pubDate>Tue, 24 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/stress-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Textual Sentiment</title>
+      <link>/tags/textual-sentiment/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/textual-sentiment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time Series</title>
+      <link>/tags/time-series/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/time-series/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>US industrial production</title>
+      <link>/tags/us-industrial-production/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/us-industrial-production/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Value-at-Risk</title>
+      <link>/tags/value-at-risk/</link>
+      <pubDate>Tue, 14 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/value-at-risk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Value-at-Risk precision</title>
+      <link>/tags/value-at-risk-precision/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/value-at-risk-precision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>abnormal return</title>
+      <link>/tags/abnormal-return/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/abnormal-return/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bootstrap</title>
+      <link>/tags/bootstrap/</link>
+      <pubDate>Sun, 06 Aug 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/bootstrap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>conditional volatility</title>
+      <link>/tags/conditional-volatility/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/conditional-volatility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>econometrics</title>
+      <link>/tags/econometrics/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/econometrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>elastic-net</title>
+      <link>/tags/elastic-net/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/elastic-net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>forecasting</title>
+      <link>/tags/forecasting/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/forecasting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>forecasting performance</title>
+      <link>/tags/forecasting-performance/</link>
+      <pubDate>Tue, 14 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/forecasting-performance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>large-scale study</title>
+      <link>/tags/large-scale-study/</link>
+      <pubDate>Tue, 14 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/large-scale-study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>numerical standard error (NSE)</title>
+      <link>/tags/numerical-standard-error-nse/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/numerical-standard-error-nse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>risk management</title>
+      <link>/tags/risk-management/</link>
+      <pubDate>Tue, 14 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/risk-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sentiment</title>
+      <link>/tags/sentiment/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/sentiment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sentiment analysis</title>
+      <link>/tags/sentiment-analysis/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/sentiment-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sentometrics</title>
+      <link>/tags/sentometrics/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/sentometrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spectral density</title>
+      <link>/tags/spectral-density/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/spectral-density/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>textual analysis</title>
+      <link>/tags/textual-analysis/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/textual-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>textual tone</title>
+      <link>/tags/textual-tone/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/textual-tone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>time-series aggregation</title>
+      <link>/tags/time-series-aggregation/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/time-series-aggregation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>topic-sentiment</title>
+      <link>/tags/topic-sentiment/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/topic-sentiment/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

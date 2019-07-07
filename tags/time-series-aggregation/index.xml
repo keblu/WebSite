@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>time-series aggregation on Keven Bluteau</title>
+    <link>/tags/time-series-aggregation/</link>
+    <description>Recent content in time-series aggregation on Keven Bluteau</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Keven Bluteau 2018</copyright>
+    <lastBuildDate>Tue, 30 Oct 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/time-series-aggregation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Questioning the News About Economic Growth: Sparse Forecasting Using Thousands of News-Based Sentiment Values</title>
+      <link>/publication/sentometrics-esi/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/sentometrics-esi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
