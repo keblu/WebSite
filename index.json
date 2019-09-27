@@ -1,35 +1,6 @@
 [
   {
     "authors": [
-      "David Ardia",
-      "Keven Bluteau",
-      "Kris Boudt"
-    ],
-    "categories": null,
-    "content": "",
-    "date": 1540854000,
-    "expirydate": -62135596800,
-    "kind": "page",
-    "lang": "en",
-    "lastmod": 1540854000,
-    "objectID": "6173200da9e6fc999300eb099a3e05b5",
-    "permalink": "/publication/sentometrics-esi/",
-    "publishdate": "2018-10-30T00:00:00+01:00",
-    "relpermalink": "/publication/sentometrics-esi/",
-    "section": "publication",
-    "summary": "The modern calculation of textual sentiment involves a myriad of choices as to the actual calibration. We introduce a general sentiment engineering framework that optimizes the design for forecasting purposes. It includes the use of the elastic net for sparse data-driven selection and the weighting of thousands of sentiment values. These values are obtained by pooling the textual sentiment values across publication venues, article topics, sentiment construction methods, and time. We apply the framework to the investigation of the value added by textual analysis-based sentiment indices for forecasting economic growth in the US. We find that the additional use of optimized news-based sentiment values yields significant accuracy gains for forecasting the nine-month and annual growth rates of the US industrial production, compared to the use of high-dimensional forecasting techniques based on only economic and financial indicators.",
-    "tags": [
-      "elastic-net",
-      "US industrial production",
-      "sentiment analysis",
-      "time-series aggregation",
-      "topic-sentiment"
-    ],
-    "title": "Questioning the News About Economic Growth: Sparse Forecasting Using Thousands of News-Based Sentiment Values",
-    "type": "publication"
-  },
-  {
-    "authors": [
       "Andres Algaba",
       "David Ardia",
       "Keven Bluteau",
@@ -89,36 +60,6 @@
       "risk management"
     ],
     "title": "Forecasting Risk with Markov-Switching GARCH Models: A Large-Scale Performance Study",
-    "type": "publication"
-  },
-  {
-    "authors": [
-      "David Ardia",
-      "Keven Bluteau",
-      "Maxime Ruede"
-    ],
-    "categories": null,
-    "content": "",
-    "date": 1533765600,
-    "expirydate": -62135596800,
-    "kind": "page",
-    "lang": "en",
-    "lastmod": 1533765600,
-    "objectID": "1e02fac485ab4795063cfe103feae282",
-    "permalink": "/publication/msgarch-bitcoin/",
-    "publishdate": "2018-08-09T00:00:00+02:00",
-    "relpermalink": "/publication/msgarch-bitcoin/",
-    "section": "publication",
-    "summary": "We test the presence of regime changes in the GARCH volatility dynamics of Bitcoin log-returns using Markov-switching GARCH (MSGARCH) models. We also compare MSGARCH to traditional single-regime GARCH specifications in predicting one-day ahead Value-at-Risk (VaR). The Bayesian approach is used to estimate the model parameters and to compute the VaR forecasts. We find strong evidence of regime changes in the GARCH process and show that MSGARCH models outperform single-regime specifications when predicting the VaR.",
-    "tags": [
-      "Bitcoin",
-      "GARCH",
-      "MSGARCH",
-      "Value-at-Risk",
-      "Backtesting",
-      "Bayesian"
-    ],
-    "title": "Regime Changes in Bitcoin GARCH Volatility Dynamics",
     "type": "publication"
   },
   {
@@ -298,6 +239,65 @@
       "Stress-testing"
     ],
     "title": "Stress-Testing with Parametric Models and Fully Flexible Probabilities",
+    "type": "publication"
+  },
+  {
+    "authors": [
+      "David Ardia",
+      "Keven Bluteau",
+      "Kris Boudt"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 2019,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 2019,
+    "objectID": "6173200da9e6fc999300eb099a3e05b5",
+    "permalink": "/publication/sentometrics-esi/",
+    "publishdate": "1970-01-01T01:33:39+01:00",
+    "relpermalink": "/publication/sentometrics-esi/",
+    "section": "publication",
+    "summary": "The modern calculation of textual sentiment involves a myriad of choices as to the actual calibration. We introduce a general sentiment engineering framework that optimizes the design for forecasting purposes. It includes the use of the elastic net for sparse data-driven selection and the weighting of thousands of sentiment values. These values are obtained by pooling the textual sentiment values across publication venues, article topics, sentiment construction methods, and time. We apply the framework to the investigation of the value added by textual analysis-based sentiment indices for forecasting economic growth in the US. We find that the additional use of optimized news-based sentiment values yields significant accuracy gains for forecasting the nine-month and annual growth rates of the US industrial production, compared to the use of high-dimensional forecasting techniques based on only economic and financial indicators.",
+    "tags": [
+      "elastic-net",
+      "US industrial production",
+      "sentiment analysis",
+      "time-series aggregation",
+      "topic-sentiment"
+    ],
+    "title": "Questioning the News About Economic Growth: Sparse Forecasting Using Thousands of News-Based Sentiment Values",
+    "type": "publication"
+  },
+  {
+    "authors": [
+      "David Ardia",
+      "Keven Bluteau",
+      "Maxime Ruede"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 2019,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 2019,
+    "objectID": "1e02fac485ab4795063cfe103feae282",
+    "permalink": "/publication/msgarch-bitcoin/",
+    "publishdate": "1970-01-01T01:33:39+01:00",
+    "relpermalink": "/publication/msgarch-bitcoin/",
+    "section": "publication",
+    "summary": "We test the presence of regime changes in the GARCH volatility dynamics of Bitcoin log-returns using Markov-switching GARCH (MSGARCH) models. We also compare MSGARCH to traditional single-regime GARCH specifications in predicting one-day ahead Value-at-Risk (VaR). The Bayesian approach is used to estimate the model parameters and to compute the VaR forecasts. We find strong evidence of regime changes in the GARCH process and show that MSGARCH models outperform single-regime specifications when predicting the VaR.",
+    "tags": [
+      "Bitcoin",
+      "GARCH",
+      "MSGARCH",
+      "Value-at-Risk",
+      "Backtesting",
+      "Bayesian"
+    ],
+    "title": "Regime Changes in Bitcoin GARCH Volatility Dynamics",
     "type": "publication"
   }
 ]

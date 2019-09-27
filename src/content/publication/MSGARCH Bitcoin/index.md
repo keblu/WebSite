@@ -1,6 +1,6 @@
 +++
 title = "Regime Changes in Bitcoin GARCH Volatility Dynamics"
-date = 2018-08-09T00:00:00
+date = 2019
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

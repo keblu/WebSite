@@ -332,7 +332,7 @@ enableGitInfo = false
 
 # Configure the English version of the website.
 [languages.en]
-  languageCode = "en-us"
+  languageCode = "fr"
 
 # Uncomment the lines below to configure your website in a second language.
 #[languages.zh]

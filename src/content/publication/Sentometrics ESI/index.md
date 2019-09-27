@@ -1,6 +1,6 @@
 +++
 title = "Questioning the News About Economic Growth: Sparse Forecasting Using Thousands of News-Based Sentiment Values"
-date = 2018-10-30T00:00:00
+date = 2019
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
