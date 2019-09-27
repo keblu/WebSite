@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Keven Bluteau 2018</copyright>
-    <lastBuildDate>Tue, 14 Aug 2018 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 14 Aug 2018 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/tags/garch/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,16 +15,16 @@
     <item>
       <title>Forecasting Risk with Markov-Switching GARCH Models: A Large-Scale Performance Study</title>
       <link>/publication/msgarch-ijf/</link>
-      <pubDate>Tue, 14 Aug 2018 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 14 Aug 2018 00:00:00 +0200</pubDate>
       
       <guid>/publication/msgarch-ijf/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Regime changes in Bitcoin GARCH volatility dynamics</title>
+      <title>Regime Changes in Bitcoin GARCH Volatility Dynamics</title>
       <link>/publication/msgarch-bitcoin/</link>
-      <pubDate>Thu, 09 Aug 2018 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 +0200</pubDate>
       
       <guid>/publication/msgarch-bitcoin/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>Methods for Computing Numerical Standard Errors: Review and Application to Value-at-Risk Estimation</title>
       <link>/publication/nse/</link>
-      <pubDate>Fri, 03 Aug 2018 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0200</pubDate>
       
       <guid>/publication/nse/</guid>
       <description></description>
@@ -42,7 +42,7 @@
     <item>
       <title>Markov-Switching GARCH Models in R: The MSGARCH Package</title>
       <link>/publication/msgarch-package/</link>
-      <pubDate>Thu, 31 May 2018 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0200</pubDate>
       
       <guid>/publication/msgarch-package/</guid>
       <description></description>
@@ -51,7 +51,7 @@
     <item>
       <title>Stress-Testing with Parametric Models and Fully Flexible Probabilities</title>
       <link>/publication/stresstest/</link>
-      <pubDate>Tue, 24 Jan 2017 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 24 Jan 2017 00:00:00 +0100</pubDate>
       
       <guid>/publication/stresstest/</guid>
       <description></description>

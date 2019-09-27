@@ -1,5 +1,5 @@
 +++
-title = "Sentometrics: An overview"
+title = "Econometrics Meets Sentiment: An Overview of Methodology and Applications"
 date = 2018-10-18T00:00:00
 draft = false
 
@@ -22,7 +22,7 @@ publication = "Working paper"
 publication_short = "Working Paper"
 
 # Abstract and optional shortened version.
-abstract = "The advent of massive amounts of textual, auditive and visual data has spurred a new strand of econometric research which investigates the transformation of qualitative sentiment data into quantitative sentiment variables, and their subsequent application in an econometric analysis of the relationships between variables. We survey this emerging research field and refer to it as sentometrics, which is a composition of sentiment and econometrics. We provide an overview of the generic steps in a typical sentometrics analysis. For each of those steps, we summarize the relevant literature, discuss the available software, and point to some interesting research questions for future research."
+abstract = "The advent of massive amounts of textual, audio and visual data has spurred the development of econometric methodology to transform qualitative sentiment data into quantitative sentiment variables, and to use those variables in an econometric analysis of the relationships between sentiment and other variables. We survey this emerging research field and refer to it as sentometrics, which is a composition of sentiment and econometrics. We provide an overview of the generic steps in a typical econometric analysis of sentiment from textual, audio and visual data. For each of those steps, we summarize the relevant methodological approaches, illustrate with empirical results, point to new methodological routes and still unanswered research questions, and discuss useful software."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)

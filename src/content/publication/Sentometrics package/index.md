@@ -22,7 +22,7 @@ publication = "Working Paper"
 publication_short = "Working Paper"
 
 # Abstract and optional shortened version.
-abstract = "We provide a hands-on introduction to optimized textual sentiment indexation using the R package sentometrics. Driven by data availability, sentiment analysis is increasingly used to capture the information value contained within textual data of all sorts and to relate it to quantitative variables. The sentometrics package allows to compute sentiment scores of numerous texts at once, to aggregate the scores into multiple time series, and to use these time series to predict any other variable. The workflow of the package is illustrated using a built-in corpus of texts from two major U.S. journals to forecast an index of economic policy uncertainty."
+abstract = "We provide a hands-on introduction to optimized textual sentiment indexation using the R package sentometrics. Driven by the need to unlock the potential of textual data, sentiment analysis is increasingly used to capture its information value. The sentometrics package implements an intuitive framework to efficiently compute sentiment scores of numerous texts, to aggregate the scores into multiple time series, and to use these time series to predict other variables. The workflow of the package is illustrated with a built-in corpus of news articles from two major U.S. journals to forecast the VIX index."
 
 
 # Is this a selected publication? (true/false)
@@ -45,7 +45,7 @@ projects = ["Sentometrics"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Penalized Regression", "R" ,"sentometrics", "Textual Sentiment","Time Series"]
+tags = ["Penalized Regression", "Prediction" ,"R" ,"sentometrics", "Textual Sentiment","Time Series"]
 
 # Links (optional).
 url_pdf = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3067734"

@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Keven Bluteau 2018</copyright>
-    <lastBuildDate>Tue, 30 Oct 2018 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 30 Oct 2018 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/tags/sentiment-analysis/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,25 +15,25 @@
     <item>
       <title>Questioning the News About Economic Growth: Sparse Forecasting Using Thousands of News-Based Sentiment Values</title>
       <link>/publication/sentometrics-esi/</link>
-      <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0100</pubDate>
       
       <guid>/publication/sentometrics-esi/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Sentometrics: An overview</title>
+      <title>Econometrics Meets Sentiment: An Overview of Methodology and Applications</title>
       <link>/publication/sentometrics-an-overview/</link>
-      <pubDate>Thu, 18 Oct 2018 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0200</pubDate>
       
       <guid>/publication/sentometrics-an-overview/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Abnormal Tone and Abnormal Returns: An Event Study Analysis</title>
+      <title>Media and the Stock Market: Their Relationship and Abnormal Dynamics Around Earnings Announcements</title>
       <link>/publication/sentometrics-abnormal-tone/</link>
-      <pubDate>Wed, 18 Jul 2018 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 +0200</pubDate>
       
       <guid>/publication/sentometrics-abnormal-tone/</guid>
       <description></description>

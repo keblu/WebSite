@@ -1,5 +1,5 @@
 +++
-title = "Abnormal Tone and Abnormal Returns: An Event Study Analysis"
+title = "Media and the Stock Market: Their Relationship and Abnormal Dynamics Around Earnings Announcements"
 date = 2018-07-18T00:00:00
 draft = false
 
@@ -22,7 +22,7 @@ publication = "Working paper"
 publication_short = "Working Paper"
 
 # Abstract and optional shortened version.
-abstract = "We propose the Cumulative Abnormal Tone (CAT) framework for tracking the normal and abnormal dynamics of textual tone around events. In our framework, we use text-mining techniques to derive the normal tone based on market and sector-wide news. We then focus on corporate events and track the abnormal tone dynamics around that event. This leads to a cumulative abnormal tone chart. We apply the CAT framework to the analysis of cumulative abnormal returns across earnings press releases. We find that the analysis of ﬁrm’s abnormal tone provides investors with relevant predictive information on the firm’s stock performance."
+abstract = "This paper investigates the abnormal tone dynamics of news media  articles about firms near earnings announcements and how it relates to earnings results and the stock market. We document a post--earnings abnormal tone drift, suggesting inertia in the media opinion. Also, we find that negative cumulative abnormal tone at the earnings events predicts a subsequent stock price reversal. Higher investor's attention, due to event coverage by the three type of sources (i.e., newswire, newspaper, web publication), amplifies the reversal. Finally, a high level of abnormal share turnover at those events suggests that the reversal is due to overreacting investors."
 
 
 # Is this a selected publication? (true/false)

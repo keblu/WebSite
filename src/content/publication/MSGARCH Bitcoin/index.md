@@ -1,10 +1,10 @@
 +++
-title = "Regime changes in Bitcoin GARCH volatility dynamics"
+title = "Regime Changes in Bitcoin GARCH Volatility Dynamics"
 date = 2018-08-09T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["David Ardia","Keven Bluteau","Maxime Rüede"]
+authors = ["David Ardia","Keven Bluteau","Maxime Ruede"]
 
 # Publication type.
 # Legend:
@@ -18,8 +18,8 @@ authors = ["David Ardia","Keven Bluteau","Maxime Rüede"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Finance Research Letters, Forthcoming"
-publication_short = "Finance Research Letters, Forthcoming"
+publication = "Finance Research Letters 29, 266-271"
+publication_short = "Finance Research Letters 29, 266-271"
 
 # Abstract and optional shortened version.
 abstract = "We test the presence of regime changes in the GARCH volatility dynamics of Bitcoin log-returns using Markov-switching GARCH (MSGARCH) models. We also compare MSGARCH to traditional single-regime GARCH specifications in predicting one-day ahead Value-at-Risk (VaR). The Bayesian approach is used to estimate the model parameters and to compute the VaR forecasts. We find strong evidence of regime changes in the GARCH process and show that MSGARCH models outperform single-regime specifications when predicting the VaR."
@@ -56,7 +56,7 @@ url_custom = [{name = "SSRN", url = "https://papers.ssrn.com/sol3/papers.cfm?abs
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = "10.2139/ssrn.3180830"
+doi = "10.1016/j.frl.2018.08.009"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
