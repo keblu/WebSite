@@ -47,5 +47,5 @@ I am the author and co-author several R packages including the MSGARCH, NSE, and
 
 When I am not doing research or side project, I indulge myself in books from a wide variety of genres such as financial history, biography, psychology, and sci-fi. 
 
-+++  
+
   

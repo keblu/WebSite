@@ -39,10 +39,15 @@ date_format = "January 2006"
   date_end = "2019-12-31"
   description = """Support students and professor for the Fixed Income, Derivatives, and Portoflio Management Course. Assist in supervising master student level thesis."""
 
+
 [[experience]]
   title = "Post-Doctoral Researcher"
   company = "Gent University & HEC Montreal"
+  company_url = ""
+  location = ""
   date_start = "2020-01-01"
   date_end = "2021-06-30"
-   description = "SNSF PostDoctoral Researcher"
+  description = """SNSF PostDoctoral Researcher"""
+  
+  
 +++
