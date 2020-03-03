@@ -41,6 +41,8 @@ date_format = "January 2006"
 
 [[experience]]
   title = "Post-Doctoral Researcher"
+  company = "Gent University & HEC Montreal"
   date_start = "2020-01-01"
   date_end = "2021-06-30"
+   description = "SNSF PostDoctoral Researcher"
 +++

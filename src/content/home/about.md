@@ -18,10 +18,6 @@ interests = [
 ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-course = "PostDoc"
-institution = "Ghent University and HEC Montréal"
-year = 2019
 
 [[education.courses]]
 course = "PhD in Finance and Business Economics"
@@ -50,5 +46,6 @@ I invested myself in computer programming from a young age. I now mainly focus o
 I am the author and co-author several R packages including the MSGARCH, NSE, and the Sentometrics package, as welle as the the WordPower package, which is still in very early devloppement. 
 
 When I am not doing research or side project, I indulge myself in books from a wide variety of genres such as financial history, biography, psychology, and sci-fi. 
+
 +++  
   
