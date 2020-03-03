@@ -18,8 +18,10 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+
 [[experience]]
-  title = "Quantitative analyst"
+  title = "Quantitative Analyst"
   company = "Lakeroad asset management"
   company_url = "http://lakeroad.ca/"
   location = "Québec, Canada"
@@ -34,7 +36,11 @@ date_format = "January 2006"
   company_url = "https://www.unine.ch/iaf"
   location = "Neuchâtel, Switzerland"
   date_start = "2016-01-01"
-  date_end = ""
+  date_end = "2019-12-31"
   description = """Support students and professor for the Fixed Income, Derivatives, and Portoflio Management Course. Assist in supervising master student level thesis."""
 
+[[experience]]
+  title = "Post-Doctoral Researcher"
+  date_start = "2020-01-01"
+  date_end = "2021-06-30"
 +++

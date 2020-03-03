@@ -13,7 +13,7 @@ title = "Keven Bluteau"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; Keven Bluteau 2018"
+copyright = "&copy; Keven Bluteau 2020"
 
 theme = "hugo-academic"
 enableEmoji = true
@@ -52,19 +52,18 @@ enableGitInfo = false
 
   # Your details.
   name = "Keven Bluteau"
-  role = "PhD Candidate in Finance"
+  role = "PhD"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Neuchâtel - Institute of Financial Analysis", url = "https://www.unine.ch/iaf/" } ]
+  organizations = [ {name = "Ghent University", url = "" },{ name = "HEC Montréal", url = ""} ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "Keven Bluteau.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "Keven.Bluteau@unine.ch"
-  address = "A.-L. Breguet 2 - 2000 Neuchâtel - Office: 1.269 "
-  phone = "41 32 718 1575"
+  email = "Keven.Bluteau@hec.ca"
+  phone = "41 076 683 3572"
   skype = "kbluteau"
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
