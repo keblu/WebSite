@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <copyright>&amp;copy; Keven Bluteau 2020</copyright>
-    <lastBuildDate>Fri, 03 Aug 2018 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 03 Aug 2018 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="/tags/spectral-density/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Methods for Computing Numerical Standard Errors: Review and Application to Value-at-Risk Estimation</title>
       <link>/publication/nse/</link>
-      <pubDate>Fri, 03 Aug 2018 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 -0400</pubDate>
       
       <guid>/publication/nse/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>NSE: Computation of Numerical Standard Errors in R</title>
       <link>/publication/nsepackage/</link>
-      <pubDate>Sun, 06 Aug 2017 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 06 Aug 2017 00:00:00 -0400</pubDate>
       
       <guid>/publication/nsepackage/</guid>
       <description></description>

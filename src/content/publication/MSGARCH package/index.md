@@ -49,7 +49,7 @@ projects = ["MSGARCH"]
 tags = ["GARCH", "MSGARCH" ,"Markov-switching", "conditional volatility","forecasting", "R software"]
 
 # Links (optional).
-url_pdf = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2845809"
+url_pdf = "https://www.jstatsoft.org/article/view/v091i04"
 url_custom = [
 {name = "SSRN", url = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2845809"},
 {name = "CRAN", url = "https://cran.r-project.org/package=MSGARCH"},

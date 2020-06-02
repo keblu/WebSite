@@ -1,5 +1,5 @@
 +++
-title = "Media and the Stock Market: Their Relationship and Abnormal Dynamics Around Earnings Announcements"
+title = "Media Abnormal Tone, Earnings Announcements, and the Stock Market"
 date = 2018-07-18T00:00:00
 draft = false
 
@@ -22,7 +22,7 @@ publication = "Working paper"
 publication_short = "Working Paper"
 
 # Abstract and optional shortened version.
-abstract = "This paper investigates the abnormal tone dynamics of news media  articles about firms near earnings announcements and how it relates to earnings results and the stock market. We document a post--earnings abnormal tone drift, suggesting inertia in the media opinion. Also, we find that negative cumulative abnormal tone at the earnings events predicts a subsequent stock price reversal. Higher investor's attention, due to event coverage by the three type of sources (i.e., newswire, newspaper, web publication), amplifies the reversal. Finally, a high level of abnormal share turnover at those events suggests that the reversal is due to overreacting investors."
+abstract = "We propose a tone-based event study to reveal the aggregate abnormal tone dynamics in media articles around earnings announcements. We test whether they convey incremental information that is useful for price discovery for non financial S&P 500 firms. The positive relationship found between the abnormal tone measure and abnormal returns suggests that media provide incremental information relative to the hard and soft information contained in earnings press releases. We also find that there is an overreaction to media abnormal tone, since the price increase associated with the abnormal tone in newspapers and web publications partially reverts in the twenty days following the announcement."
 
 
 # Is this a selected publication? (true/false)

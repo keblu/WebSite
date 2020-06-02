@@ -7,15 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <copyright>&amp;copy; Keven Bluteau 2020</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Econometrics Meets Sentiment: An Overview of Methodology and Applications</title>
+      <link>/publication/sentometrics-an-overview/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/sentometrics-an-overview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Questioning the News About Economic Growth: Sparse Forecasting Using Thousands of News-Based Sentiment Values</title>
       <link>/publication/sentometrics-esi/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 -0400</pubDate>
       
       <guid>/publication/sentometrics-esi/</guid>
       <description></description>
@@ -24,25 +33,16 @@
     <item>
       <title>Regime Changes in Bitcoin GARCH Volatility Dynamics</title>
       <link>/publication/msgarch-bitcoin/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 -0400</pubDate>
       
       <guid>/publication/msgarch-bitcoin/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Econometrics Meets Sentiment: An Overview of Methodology and Applications</title>
-      <link>/publication/sentometrics-an-overview/</link>
-      <pubDate>Thu, 18 Oct 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/publication/sentometrics-an-overview/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Forecasting Risk with Markov-Switching GARCH Models: A Large-Scale Performance Study</title>
       <link>/publication/msgarch-ijf/</link>
-      <pubDate>Tue, 14 Aug 2018 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 14 Aug 2018 00:00:00 -0400</pubDate>
       
       <guid>/publication/msgarch-ijf/</guid>
       <description></description>
@@ -51,16 +51,16 @@
     <item>
       <title>Methods for Computing Numerical Standard Errors: Review and Application to Value-at-Risk Estimation</title>
       <link>/publication/nse/</link>
-      <pubDate>Fri, 03 Aug 2018 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 -0400</pubDate>
       
       <guid>/publication/nse/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Media and the Stock Market: Their Relationship and Abnormal Dynamics Around Earnings Announcements</title>
+      <title>Media Abnormal Tone, Earnings Announcements, and the Stock Market</title>
       <link>/publication/sentometrics-abnormal-tone/</link>
-      <pubDate>Wed, 18 Jul 2018 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 -0400</pubDate>
       
       <guid>/publication/sentometrics-abnormal-tone/</guid>
       <description></description>
@@ -69,7 +69,7 @@
     <item>
       <title>Markov-Switching GARCH Models in R: The MSGARCH Package</title>
       <link>/publication/msgarch-package/</link>
-      <pubDate>Thu, 31 May 2018 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 31 May 2018 00:00:00 -0400</pubDate>
       
       <guid>/publication/msgarch-package/</guid>
       <description></description>
@@ -78,7 +78,7 @@
     <item>
       <title>The R Package sentometrics to Compute, Aggregate and Predict with Textual Sentiment</title>
       <link>/publication/sentometrics-package/</link>
-      <pubDate>Wed, 21 Mar 2018 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 -0400</pubDate>
       
       <guid>/publication/sentometrics-package/</guid>
       <description></description>
@@ -87,7 +87,7 @@
     <item>
       <title>NSE: Computation of Numerical Standard Errors in R</title>
       <link>/publication/nsepackage/</link>
-      <pubDate>Sun, 06 Aug 2017 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 06 Aug 2017 00:00:00 -0400</pubDate>
       
       <guid>/publication/nsepackage/</guid>
       <description></description>
@@ -96,7 +96,7 @@
     <item>
       <title>Stress-Testing with Parametric Models and Fully Flexible Probabilities</title>
       <link>/publication/stresstest/</link>
-      <pubDate>Tue, 24 Jan 2017 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 24 Jan 2017 00:00:00 -0500</pubDate>
       
       <guid>/publication/stresstest/</guid>
       <description></description>

@@ -18,11 +18,11 @@ authors = ["David Ardia","Keven Bluteau","Samuel Borms","Kris Boudt"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Working Paper"
-publication_short = "Working Paper"
+publication = "Forthcoming in Journal of Statistical Software"
+publication_short = "Forthcoming in Journal of Statistical Software"
 
 # Abstract and optional shortened version.
-abstract = "We provide a hands-on introduction to optimized textual sentiment indexation using the R package sentometrics. Driven by the need to unlock the potential of textual data, sentiment analysis is increasingly used to capture its information value. The sentometrics package implements an intuitive framework to efficiently compute sentiment scores of numerous texts, to aggregate the scores into multiple time series, and to use these time series to predict other variables. The workflow of the package is illustrated with a built-in corpus of news articles from two major U.S. journals to forecast the VIX index."
+abstract = "We provide a hands-on introduction to optimized textual sentiment indexation using the R package sentometrics. Textual sentiment analysis is increasingly used to unlock the potential information value of textual data. The sentometrics package implements an intuitive framework to efficiently compute sentiment scores of numerous texts, to aggregate the scores into multiple time series, and to use these time series to predict other variables. The workflow of the package is illustrated with a built-in corpus of news articles from two major U.S. journals to forecast the CBOE Volatility Index."
 
 
 # Is this a selected publication? (true/false)

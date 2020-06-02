@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <copyright>&amp;copy; Keven Bluteau 2020</copyright>
-    <lastBuildDate>Tue, 24 Jan 2017 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jan 2017 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/tags/fully-flexible-probabilities/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Stress-Testing with Parametric Models and Fully Flexible Probabilities</title>
       <link>/publication/stresstest/</link>
-      <pubDate>Tue, 24 Jan 2017 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 24 Jan 2017 00:00:00 -0500</pubDate>
       
       <guid>/publication/stresstest/</guid>
       <description></description>
