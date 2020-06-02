@@ -19,8 +19,8 @@ authors = ["David Ardia","Keven Bluteau","Kris Boudt", "Leopoldo Catania", "Deni
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Journal of Statistical Software, Forthcoming"
-publication_short = "Journal of Statistical Software, Forthcoming"
+publication = "Journal of Statistical Software, 91(4), 1-38"
+publication_short = "Journal of Statistical Software, 91(4), 1-38"
 
 # Abstract and optional shortened version.
 abstract = "We describe the package MSGARCH, which implements Markov-switching GARCH models in R with efficient C object-oriented programming. Markov-switching GARCH models have become popular methods to account for regime changes in the conditional variance dynamics of time series. The package MSGARCH allows the user to perform simulations as well as Maximum Likelihood and MCMC/Bayesian estimations of a very large class of Markov-switching GARCH-type models. The package also provides methods to make single-step and multi-step ahead forecasts of the complete conditional density of the variable of interest. Risk management tools to estimate conditional volatility, Value-at-Risk and Expected Shortfall are also available. We illustrate the broad functionality of the MSGARCH package using exchange rate and stock market return data."

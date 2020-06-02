@@ -18,8 +18,8 @@ authors = ["Andres Algaba", "David Ardia", "Keven Bluteau", "Samuel Borms", "Kri
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Forthcoming in Journal os Economic Surveys"
-publication_short = "Forthcoming in Journal os Economic Surveys"
+publication = "Forthcoming in Journal of Economic Surveys"
+publication_short = "Forthcoming in Journal of Economic Surveys"
 
 # Abstract and optional shortened version.
 abstract = "The advent of massive amounts of textual, audio, and visual data has spurred the development of econometric methodology to transform qualitative sentiment data into quantitative sentiment variables, and to use those variables in an econometric analysis of the relationships between sentiment and other variables. We survey this emerging research field and refer to it as sentometrics , which is a portmanteau of sentiment and econometrics. We provide a synthesis of the relevant methodological approaches, illustrate with empirical results, and discuss useful software."
