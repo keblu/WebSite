@@ -40,12 +40,12 @@ year = 2010
 
 I am currently an SNSF Postdoctoral researcher, focusing on how the news media informed (or misinformed) financial markets. 
 I hold a joint doctoral degree in Finance and Business Economics from the University of Neuchâtel and Vrije Universiteit Brussel, respectively. 
-My current work is mainly centered around the field of Sentometrics, which lies at the intersection of text analysis (NLP) and econometrics. 
+My current work is centered around the field of Sentometrics, which lies at the intersection of text analysis (NLP) and econometrics. 
 
 I invested myself in computer programming from a young age. I now mainly focus on the R statistical language, and I am a proponent of open-source software and reproducible research. 
-I am the author and co-author several R packages, including the MSGARCH, NSE, and the Sentometrics package, as well as the WordPower package, which is still in very early development. 
+I am the author and co-author of several R packages, including the MSGARCH, NSE, and the Sentometrics package and the WordPower package, which is still in very early development. 
 
-When I am not doing research or side project, I indulge myself in books from a wide variety of genres, such as financial history, biography, psychology, and sci-fi. 
+When I am not doing research or side project, I mostly read books from various genres, such as financial history, biography, psychology, health, and sci-fi. 
 
 
   
