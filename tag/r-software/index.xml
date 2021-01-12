@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R software on Keven Bluteau</title>
+    <link>/tag/r-software/</link>
+    <description>Recent content in R software on Keven Bluteau</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy Keven Bluteau 2021</copyright>
+    <lastBuildDate>Thu, 31 May 2018 00:00:00 -0400</lastBuildDate><atom:link href="/tag/r-software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markov-Switching GARCH Models in R: The MSGARCH Package</title>
+      <link>/publication/msgarch-package/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/msgarch-package/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NSE: Computation of Numerical Standard Errors in R</title>
+      <link>/publication/nsepackage/</link>
+      <pubDate>Sun, 06 Aug 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/nsepackage/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

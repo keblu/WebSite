@@ -10,11 +10,11 @@ weight = 5
 # List your academic interests.
 [interests]
 interests = [
-"Computational Finance",
-"Sentiment Analysis",
-"Econometrics",
-"Risk Management",
-"Machine Learning"
+"Sentometrics",
+"Climate Finance", 
+"Machine Learning",
+"Asset Pricing",
+"Risk Management"
 ]
 
 # List your qualifications (such as academic degrees).
@@ -42,10 +42,10 @@ I am currently an SNSF Postdoctoral researcher, focusing on how the news media i
 I hold a joint doctoral degree in Finance and Business Economics from the University of Neuchâtel and Vrije Universiteit Brussel, respectively. 
 My current work is centered around the field of Sentometrics, which lies at the intersection of text analysis (NLP) and econometrics. 
 
-I invested myself in computer programming from a young age. I now mainly focus on the R statistical language, and I am a proponent of open-source software and reproducible research. 
-I am the author and co-author of several R packages, including the MSGARCH, NSE, and the Sentometrics package and the WordPower package, which is still in very early development. 
+My interests are centered on climate finance issues, financial machine learning (particularly regarding the use of text as data), volatility in financial markets, and alternative risk premia.
+I am the author and co-author of several R packages, including the MSGARCH, NSE, the Sentometrics package, and the WordPower package, which is still in very early development. 
 
-When I am not doing research or side project, I mostly read books from various genres, such as financial history, biography, psychology, health, and sci-fi. 
+When I do not do research or side projects, I mostly read books from various genres, such as financial history, biography, psychology, health, and sci-fi. 
 
 
   

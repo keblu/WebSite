@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/publication/climate/</loc>
+      <lastmod>2020-10-02T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication/sentometrics-an-overview/</loc>
       <lastmod>2020-05-30T00:00:00-04:00</lastmod>
     </url>
@@ -92,7 +100,7 @@
     
     <url>
     
-      <loc>/tags/-abnormal-tone/</loc>
+      <loc>/tags/abnormal-tone/</loc>
       <lastmod>2018-07-18T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -101,7 +109,7 @@
     
     <url>
     
-      <loc>/tags/-event-study/</loc>
+      <loc>/tags/event-study/</loc>
       <lastmod>2018-07-18T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -110,7 +118,7 @@
     
     <url>
     
-      <loc>/tags/-numerical-standard-error-nse/</loc>
+      <loc>/tags/numerical-standard-error-nse/</loc>
       <lastmod>2017-08-06T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -120,7 +128,16 @@
     <url>
     
       <loc>/publication_types/2/</loc>
-      <lastmod>2020-05-30T00:00:00-04:00</lastmod>
+      <lastmod>2020-10-02T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/asset-pricing/</loc>
+      <lastmod>2020-10-02T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -172,6 +189,24 @@
     
     <url>
     
+      <loc>/tags/climate-change/</loc>
+      <lastmod>2020-10-02T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/esg/</loc>
+      <lastmod>2020-10-02T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/expected-shortfall/</loc>
       <lastmod>2018-08-14T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -192,6 +227,15 @@
     
       <loc>/tags/garch/</loc>
       <lastmod>2019-06-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/greenhouse-gas-emission/</loc>
+      <lastmod>2020-10-02T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -272,7 +316,7 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2020-05-30T00:00:00-04:00</lastmod>
+      <lastmod>2020-10-02T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -298,6 +342,15 @@
     
     <url>
     
+      <loc>/tags/sentometrics/</loc>
+      <lastmod>2020-10-02T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/stress-testing/</loc>
       <lastmod>2017-01-24T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -307,8 +360,26 @@
     
     <url>
     
+      <loc>/tags/sustainable-investing/</loc>
+      <lastmod>2020-10-02T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/</loc>
       <lastmod>2018-07-18T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/textual-analysis/</loc>
+      <lastmod>2020-10-02T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     

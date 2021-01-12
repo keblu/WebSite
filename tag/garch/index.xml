@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GARCH on Keven Bluteau</title>
+    <link>/tag/garch/</link>
+    <description>Recent content in GARCH on Keven Bluteau</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy Keven Bluteau 2021</copyright>
+    <lastBuildDate>Sat, 01 Jun 2019 00:00:00 -0400</lastBuildDate><atom:link href="/tag/garch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Regime Changes in Bitcoin GARCH Volatility Dynamics</title>
+      <link>/publication/msgarch-bitcoin/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/msgarch-bitcoin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forecasting Risk with Markov-Switching GARCH Models: A Large-Scale Performance Study</title>
+      <link>/publication/msgarch-ijf/</link>
+      <pubDate>Tue, 14 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/msgarch-ijf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methods for Computing Numerical Standard Errors: Review and Application to Value-at-Risk Estimation</title>
+      <link>/publication/nse/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/nse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markov-Switching GARCH Models in R: The MSGARCH Package</title>
+      <link>/publication/msgarch-package/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/msgarch-package/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stress-Testing with Parametric Models and Fully Flexible Probabilities</title>
+      <link>/publication/stresstest/</link>
+      <pubDate>Tue, 24 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/stresstest/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

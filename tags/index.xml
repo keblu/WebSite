@@ -14,28 +14,37 @@
     
     <item>
       <title> abnormal tone</title>
-      <link>/tags/-abnormal-tone/</link>
+      <link>/tags/abnormal-tone/</link>
       <pubDate>Wed, 18 Jul 2018 00:00:00 -0400</pubDate>
       
-      <guid>/tags/-abnormal-tone/</guid>
+      <guid>/tags/abnormal-tone/</guid>
       <description></description>
     </item>
     
     <item>
       <title> event-study</title>
-      <link>/tags/-event-study/</link>
+      <link>/tags/event-study/</link>
       <pubDate>Wed, 18 Jul 2018 00:00:00 -0400</pubDate>
       
-      <guid>/tags/-event-study/</guid>
+      <guid>/tags/event-study/</guid>
       <description></description>
     </item>
     
     <item>
       <title> numerical standard error (NSE)</title>
-      <link>/tags/-numerical-standard-error-nse/</link>
+      <link>/tags/numerical-standard-error-nse/</link>
       <pubDate>Sun, 06 Aug 2017 00:00:00 -0400</pubDate>
       
-      <guid>/tags/-numerical-standard-error-nse/</guid>
+      <guid>/tags/numerical-standard-error-nse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asset Pricing</title>
+      <link>/tags/asset-pricing/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/asset-pricing/</guid>
       <description></description>
     </item>
     
@@ -76,6 +85,24 @@
     </item>
     
     <item>
+      <title>Climate Change</title>
+      <link>/tags/climate-change/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/climate-change/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ESG</title>
+      <link>/tags/esg/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/esg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Expected Shortfall</title>
       <link>/tags/expected-shortfall/</link>
       <pubDate>Tue, 14 Aug 2018 00:00:00 -0400</pubDate>
@@ -99,6 +126,15 @@
       <pubDate>Sat, 01 Jun 2019 00:00:00 -0400</pubDate>
       
       <guid>/tags/garch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Greenhouse Gas Emission</title>
+      <link>/tags/greenhouse-gas-emission/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/greenhouse-gas-emission/</guid>
       <description></description>
     </item>
     
@@ -184,11 +220,38 @@
     </item>
     
     <item>
+      <title>Sentometrics</title>
+      <link>/tags/sentometrics/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/sentometrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Stress-testing</title>
       <link>/tags/stress-testing/</link>
       <pubDate>Tue, 24 Jan 2017 00:00:00 -0500</pubDate>
       
       <guid>/tags/stress-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sustainable Investing</title>
+      <link>/tags/sustainable-investing/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/sustainable-investing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Textual Analysis</title>
+      <link>/tags/textual-analysis/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/textual-analysis/</guid>
       <description></description>
     </item>
     

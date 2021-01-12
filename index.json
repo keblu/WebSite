@@ -1,1 +1,335 @@
-[{"authors":["Andres Algaba","David Ardia","Keven Bluteau","Samuel Borms","Kris Boudt"],"categories":null,"content":"","date":1590811200,"expirydate":-62135596800,"kind":"page","lang":"en","lastmod":1590811200,"objectID":"4f7bc383c03a9bb72a47e20559149f07","permalink":"/publication/sentometrics-an-overview/","publishdate":"2020-05-30T00:00:00-04:00","relpermalink":"/publication/sentometrics-an-overview/","section":"publication","summary":"The advent of massive amounts of textual, audio, and visual data has spurred the development of econometric methodology to transform qualitative sentiment data into quantitative sentiment variables, and to use those variables in an econometric analysis of the relationships between sentiment and other variables. We survey this emerging research field and refer to it as sentometrics , which is a portmanteau of sentiment and econometrics. We provide a synthesis of the relevant methodological approaches, illustrate with empirical results, and discuss useful software.","tags":["sentometrics","sentiment","econometrics","sentiment analysis","textual analysis"],"title":"Econometrics Meets Sentiment: An Overview of Methodology and Applications","type":"publication"},{"authors":["David Ardia","Keven Bluteau","Kris Boudt"],"categories":null,"content":"","date":1567310400,"expirydate":-62135596800,"kind":"page","lang":"en","lastmod":1567310400,"objectID":"6173200da9e6fc999300eb099a3e05b5","permalink":"/publication/sentometrics-esi/","publishdate":"2019-09-01T00:00:00-04:00","relpermalink":"/publication/sentometrics-esi/","section":"publication","summary":"The modern calculation of textual sentiment involves a myriad of choices as to the actual calibration. We introduce a general sentiment engineering framework that optimizes the design for forecasting purposes. It includes the use of the elastic net for sparse data-driven selection and the weighting of thousands of sentiment values. These values are obtained by pooling the textual sentiment values across publication venues, article topics, sentiment construction methods, and time. We apply the framework to the investigation of the value added by textual analysis-based sentiment indices for forecasting economic growth in the US. We find that the additional use of optimized news-based sentiment values yields significant accuracy gains for forecasting the nine-month and annual growth rates of the US industrial production, compared to the use of high-dimensional forecasting techniques based on only economic and financial indicators.","tags":["elastic-net","US industrial production","sentiment analysis","time-series aggregation","topic-sentiment"],"title":"Questioning the News About Economic Growth: Sparse Forecasting Using Thousands of News-Based Sentiment Values","type":"publication"},{"authors":["David Ardia","Keven Bluteau","Maxime Ruede"],"categories":null,"content":"","date":1559361600,"expirydate":-62135596800,"kind":"page","lang":"en","lastmod":1559361600,"objectID":"1e02fac485ab4795063cfe103feae282","permalink":"/publication/msgarch-bitcoin/","publishdate":"2019-06-01T00:00:00-04:00","relpermalink":"/publication/msgarch-bitcoin/","section":"publication","summary":"We test the presence of regime changes in the GARCH volatility dynamics of Bitcoin log-returns using Markov-switching GARCH (MSGARCH) models. We also compare MSGARCH to traditional single-regime GARCH specifications in predicting one-day ahead Value-at-Risk (VaR). The Bayesian approach is used to estimate the model parameters and to compute the VaR forecasts. We find strong evidence of regime changes in the GARCH process and show that MSGARCH models outperform single-regime specifications when predicting the VaR.","tags":["Bitcoin","GARCH","MSGARCH","Value-at-Risk","Backtesting","Bayesian"],"title":"Regime Changes in Bitcoin GARCH Volatility Dynamics","type":"publication"},{"authors":["David Ardia","Keven Bluteau","Kris Boudt","Leopoldo Catania"],"categories":null,"content":"","date":1534219200,"expirydate":-62135596800,"kind":"page","lang":"en","lastmod":1534219200,"objectID":"0cd1cf2bd60d5d2a2e6a27c181664f63","permalink":"/publication/msgarch-ijf/","publishdate":"2018-08-14T00:00:00-04:00","relpermalink":"/publication/msgarch-ijf/","section":"publication","summary":"We perform a large-scale empirical study to compare the forecasting performance of single-regime and Markov-switching GARCH (MSGARCH) models from a risk management perspective. We find that, for daily, weekly, and ten-day equity log-returns, MSGARCH models yield more accurate Value-at-Risk, Expected Shortfall, and left-tail distribution forecasts than their single-regime counterpart. Also, our results indicate that accounting for parameter uncertainty improves left-tail predictions, independently of the inclusion of the Markov-switching mechanism.","tags":["GARCH","MSGARCH","forecasting performance","large-scale study","Value-at-Risk","Expected Shortfall","risk management"],"title":"Forecasting Risk with Markov-Switching GARCH Models: A Large-Scale Performance Study","type":"publication"},{"authors":["David Ardia","Keven Bluteau","Lennart F. Hoogerheide"],"categories":null,"content":"","date":1533268800,"expirydate":-62135596800,"kind":"page","lang":"en","lastmod":1533268800,"objectID":"bab24c06bfc3dca1cfd0bbb2e7e07a77","permalink":"/publication/nse/","publishdate":"2018-08-03T00:00:00-04:00","relpermalink":"/publication/nse/","section":"publication","summary":"Numerical standard error (NSE) is an estimate of the standard deviation of a simulation result if the simulation experiment were to be repeated many times. We review standard methods for computing NSE, and perform a Monte Carlo experiments to compare their performance in the case of high/extreme autocorrelation. In particular, we propose an application to risk management where we assess the precision of the Value–at–Risk measure when the underlying risk model is estimated by simulation–based methods. Overall, HAC estimators with prewhitening perform best in the presence of large/extreme autocorrelation.","tags":["Bootstrap","GARCH","HAC kernel","numerical standard error (NSE)","Monte Carlo","Markov chain Monte Carlo (MCMC)","spectral density","Value-at-Risk precision"],"title":"Methods for Computing Numerical Standard Errors: Review and Application to Value-at-Risk Estimation","type":"publication"},{"authors":["David Ardia","Keven Bluteau","Kris Boudt"],"categories":null,"content":"","date":1531886400,"expirydate":-62135596800,"kind":"page","lang":"en","lastmod":1531886400,"objectID":"5f2aef4ef80fc7ba9a5f99fef32b747c","permalink":"/publication/sentometrics-abnormal-tone/","publishdate":"2018-07-18T00:00:00-04:00","relpermalink":"/publication/sentometrics-abnormal-tone/","section":"publication","summary":"We propose a tone-based event study to reveal the aggregate abnormal tone dynamics in media articles around earnings announcements. We test whether they convey incremental information that is useful for price discovery for non financial S\u0026P 500 firms. The positive relationship found between the abnormal tone measure and abnormal returns suggests that media provide incremental information relative to the hard and soft information contained in earnings press releases. We also find that there is an overreaction to media abnormal tone, since the price increase associated with the abnormal tone in newspapers and web publications partially reverts in the twenty days following the announcement.","tags":["textual tone"," abnormal tone","abnormal return","sentiment analysis"," event-study"],"title":"Media Abnormal Tone, Earnings Announcements, and the Stock Market","type":"publication"},{"authors":["David Ardia","Keven Bluteau","Kris Boudt","Leopoldo Catania","Denis-Alexandre Trottier"],"categories":null,"content":"","date":1527739200,"expirydate":-62135596800,"kind":"page","lang":"en","lastmod":1527739200,"objectID":"fbcb14ca069b02660e7355d0e0dae419","permalink":"/publication/msgarch-package/","publishdate":"2018-05-31T00:00:00-04:00","relpermalink":"/publication/msgarch-package/","section":"publication","summary":"We describe the package MSGARCH, which implements Markov-switching GARCH models in R with efficient C object-oriented programming. Markov-switching GARCH models have become popular methods to account for regime changes in the conditional variance dynamics of time series. The package MSGARCH allows the user to perform simulations as well as Maximum Likelihood and MCMC/Bayesian estimations of a very large class of Markov-switching GARCH-type models. The package also provides methods to make single-step and multi-step ahead forecasts of the complete conditional density of the variable of interest. Risk management tools to estimate conditional volatility, Value-at-Risk and Expected Shortfall are also available. We illustrate the broad functionality of the MSGARCH package using exchange rate and stock market return data.","tags":["GARCH","MSGARCH","Markov-switching","conditional volatility","forecasting","R software"],"title":"Markov-Switching GARCH Models in R: The MSGARCH Package","type":"publication"},{"authors":["David Ardia","Keven Bluteau","Samuel Borms","Kris Boudt"],"categories":null,"content":"","date":1521604800,"expirydate":-62135596800,"kind":"page","lang":"en","lastmod":1521604800,"objectID":"50cec29bf0781b7ab088515ca3e36d50","permalink":"/publication/sentometrics-package/","publishdate":"2018-03-21T00:00:00-04:00","relpermalink":"/publication/sentometrics-package/","section":"publication","summary":"We provide a hands-on introduction to optimized textual sentiment indexation using the R package sentometrics. Textual sentiment analysis is increasingly used to unlock the potential information value of textual data. The sentometrics package implements an intuitive framework to efficiently compute sentiment scores of numerous texts, to aggregate the scores into multiple time series, and to use these time series to predict other variables. The workflow of the package is illustrated with a built-in corpus of news articles from two major U.S. journals to forecast the CBOE Volatility Index.","tags":["Penalized Regression","Prediction","R","sentometrics","Textual Sentiment","Time Series"],"title":"The R Package sentometrics to Compute, Aggregate and Predict with Textual Sentiment","type":"publication"},{"authors":["David Ardia","Keven Bluteau"],"categories":null,"content":"","date":1501992000,"expirydate":-62135596800,"kind":"page","lang":"en","lastmod":1501992000,"objectID":"a39e97e01841f76f51fc1d6269c35fd5","permalink":"/publication/nsepackage/","publishdate":"2017-08-06T00:00:00-04:00","relpermalink":"/publication/nsepackage/","section":"publication","summary":"NSE is an R package for computing the numerical standard error (NSE), an estimate of the standard deviation of a simulation result if the simulation experiment were to be repeated many times. The package provides a set of wrappers around several R packages, which give access to more than thirty estimators, including batch means estimators (Geyer (1992 Section 3.2), initial sequence estimators (Geyer (1992 Equation 3.3), spectrum at zero estimators (Heidelberger and Welch (1981),Flegal and Jones (2010), heteroskedasticity and autocorrelation consistent (HAC) kernel estimators (Newey and West (1987), Andrews (1991), Andrews and Monahan (1992), Newey and West (1994), Hirukawa (2010), and bootstrap estimators Politis and Romano (1992), Politis and Romano (1994), Politis and White (2004).","tags":["bootstrap","HAC kernel"," numerical standard error (NSE)","Monte Carlo","spectral density","R software"],"title":"NSE: Computation of Numerical Standard Errors in R","type":"publication"},{"authors":["David Ardia","Keven Bluteau"],"categories":null,"content":"","date":1485234000,"expirydate":-62135596800,"kind":"page","lang":"en","lastmod":1485234000,"objectID":"65765cf4a076bc939c10a8130d5d6af7","permalink":"/publication/stresstest/","publishdate":"2017-01-24T00:00:00-05:00","relpermalink":"/publication/stresstest/","section":"publication","summary":"We propose a simple methodology to simulate scenarios from a parametric risk model while accounting for stress-test views via fully flexible probabilities (Meucci, 2010, 2013).","tags":["Fully flexible probabilities","GARCH","Stress-testing"],"title":"Stress-Testing with Parametric Models and Fully Flexible Probabilities","type":"publication"}]
+[
+  {
+    "authors": [
+      "David Ardia",
+      "Keven Bluteau",
+      "Kris Boudt",
+      "Koen Inghelbrecht"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1601611200,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1601611200,
+    "objectID": "195f9af72f1b38c25851e956ccae7b74",
+    "permalink": "/publication/climate/",
+    "publishdate": "2020-10-02T00:00:00-04:00",
+    "relpermalink": "/publication/climate/",
+    "section": "publication",
+    "summary": "We empirically test the prediction of Pastor, Stambaugh, and Taylor (2020) that ''green'' firms tend to outperform ''brown'' firms when concerns about climate change increase, using data for S\u0026P 500 companies from January 2010 to June 2018. To capture unexpected increases in climate change concerns, we construct a Media Climate Change Concerns index using news about climate change published by major U.S. newspapers. We find that when concerns about climate change increase unexpectedly, green firms' stock prices increase, while brown firms' decrease. Further, using topic modeling, we conclude that climate change concerns affect returns both through investors updating their expectations about firms' future cash flows and through changes in investors' preferences for sustainability.",
+    "tags": [
+      "Asset Pricing",
+      "Climate Change",
+      "Sustainable Investing",
+      "ESG",
+      "Greenhouse Gas Emission",
+      "Sentometrics",
+      "Textual Analysis"
+    ],
+    "title": "Climate Change Concerns and the Performance of ''Green'' Versus ''Brown'' Stocks",
+    "type": "publication"
+  },
+  {
+    "authors": [
+      "Andres Algaba",
+      "David Ardia",
+      "Keven Bluteau",
+      "Samuel Borms",
+      "Kris Boudt"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1590811200,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1590811200,
+    "objectID": "4f7bc383c03a9bb72a47e20559149f07",
+    "permalink": "/publication/sentometrics-an-overview/",
+    "publishdate": "2020-05-30T00:00:00-04:00",
+    "relpermalink": "/publication/sentometrics-an-overview/",
+    "section": "publication",
+    "summary": "The advent of massive amounts of textual, audio, and visual data has spurred the development of econometric methodology to transform qualitative sentiment data into quantitative sentiment variables, and to use those variables in an econometric analysis of the relationships between sentiment and other variables. We survey this emerging research field and refer to it as sentometrics , which is a portmanteau of sentiment and econometrics. We provide a synthesis of the relevant methodological approaches, illustrate with empirical results, and discuss useful software.",
+    "tags": [
+      "sentometrics",
+      "sentiment",
+      "econometrics",
+      "sentiment analysis",
+      "textual analysis"
+    ],
+    "title": "Econometrics Meets Sentiment: An Overview of Methodology and Applications",
+    "type": "publication"
+  },
+  {
+    "authors": [
+      "David Ardia",
+      "Keven Bluteau",
+      "Kris Boudt"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1567310400,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1567310400,
+    "objectID": "6173200da9e6fc999300eb099a3e05b5",
+    "permalink": "/publication/sentometrics-esi/",
+    "publishdate": "2019-09-01T00:00:00-04:00",
+    "relpermalink": "/publication/sentometrics-esi/",
+    "section": "publication",
+    "summary": "The modern calculation of textual sentiment involves a myriad of choices as to the actual calibration. We introduce a general sentiment engineering framework that optimizes the design for forecasting purposes. It includes the use of the elastic net for sparse data-driven selection and the weighting of thousands of sentiment values. These values are obtained by pooling the textual sentiment values across publication venues, article topics, sentiment construction methods, and time. We apply the framework to the investigation of the value added by textual analysis-based sentiment indices for forecasting economic growth in the US. We find that the additional use of optimized news-based sentiment values yields significant accuracy gains for forecasting the nine-month and annual growth rates of the US industrial production, compared to the use of high-dimensional forecasting techniques based on only economic and financial indicators.",
+    "tags": [
+      "elastic-net",
+      "US industrial production",
+      "sentiment analysis",
+      "time-series aggregation",
+      "topic-sentiment"
+    ],
+    "title": "Questioning the News About Economic Growth: Sparse Forecasting Using Thousands of News-Based Sentiment Values",
+    "type": "publication"
+  },
+  {
+    "authors": [
+      "David Ardia",
+      "Keven Bluteau",
+      "Maxime Ruede"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1559361600,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1559361600,
+    "objectID": "1e02fac485ab4795063cfe103feae282",
+    "permalink": "/publication/msgarch-bitcoin/",
+    "publishdate": "2019-06-01T00:00:00-04:00",
+    "relpermalink": "/publication/msgarch-bitcoin/",
+    "section": "publication",
+    "summary": "We test the presence of regime changes in the GARCH volatility dynamics of Bitcoin log-returns using Markov-switching GARCH (MSGARCH) models. We also compare MSGARCH to traditional single-regime GARCH specifications in predicting one-day ahead Value-at-Risk (VaR). The Bayesian approach is used to estimate the model parameters and to compute the VaR forecasts. We find strong evidence of regime changes in the GARCH process and show that MSGARCH models outperform single-regime specifications when predicting the VaR.",
+    "tags": [
+      "Bitcoin",
+      "GARCH",
+      "MSGARCH",
+      "Value-at-Risk",
+      "Backtesting",
+      "Bayesian"
+    ],
+    "title": "Regime Changes in Bitcoin GARCH Volatility Dynamics",
+    "type": "publication"
+  },
+  {
+    "authors": [
+      "David Ardia",
+      "Keven Bluteau",
+      "Kris Boudt",
+      "Leopoldo Catania"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1534219200,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1534219200,
+    "objectID": "0cd1cf2bd60d5d2a2e6a27c181664f63",
+    "permalink": "/publication/msgarch-ijf/",
+    "publishdate": "2018-08-14T00:00:00-04:00",
+    "relpermalink": "/publication/msgarch-ijf/",
+    "section": "publication",
+    "summary": "We perform a large-scale empirical study to compare the forecasting performance of single-regime and Markov-switching GARCH (MSGARCH) models from a risk management perspective. We find that, for daily, weekly, and ten-day equity log-returns, MSGARCH models yield more accurate Value-at-Risk, Expected Shortfall, and left-tail distribution forecasts than their single-regime counterpart. Also, our results indicate that accounting for parameter uncertainty improves left-tail predictions, independently of the inclusion of the Markov-switching mechanism.",
+    "tags": [
+      "GARCH",
+      "MSGARCH",
+      "forecasting performance",
+      "large-scale study",
+      "Value-at-Risk",
+      "Expected Shortfall",
+      "risk management"
+    ],
+    "title": "Forecasting Risk with Markov-Switching GARCH Models: A Large-Scale Performance Study",
+    "type": "publication"
+  },
+  {
+    "authors": [
+      "David Ardia",
+      "Keven Bluteau",
+      "Lennart F. Hoogerheide"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1533268800,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1533268800,
+    "objectID": "bab24c06bfc3dca1cfd0bbb2e7e07a77",
+    "permalink": "/publication/nse/",
+    "publishdate": "2018-08-03T00:00:00-04:00",
+    "relpermalink": "/publication/nse/",
+    "section": "publication",
+    "summary": "Numerical standard error (NSE) is an estimate of the standard deviation of a simulation result if the simulation experiment were to be repeated many times. We review standard methods for computing NSE, and perform a Monte Carlo experiments to compare their performance in the case of high/extreme autocorrelation. In particular, we propose an application to risk management where we assess the precision of the Value–at–Risk measure when the underlying risk model is estimated by simulation–based methods. Overall, HAC estimators with prewhitening perform best in the presence of large/extreme autocorrelation.",
+    "tags": [
+      "Bootstrap",
+      "GARCH",
+      "HAC kernel",
+      "numerical standard error (NSE)",
+      "Monte Carlo",
+      "Markov chain Monte Carlo (MCMC)",
+      "spectral density",
+      "Value-at-Risk precision"
+    ],
+    "title": "Methods for Computing Numerical Standard Errors: Review and Application to Value-at-Risk Estimation",
+    "type": "publication"
+  },
+  {
+    "authors": [
+      "David Ardia",
+      "Keven Bluteau",
+      "Kris Boudt"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1531886400,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1531886400,
+    "objectID": "5f2aef4ef80fc7ba9a5f99fef32b747c",
+    "permalink": "/publication/sentometrics-abnormal-tone/",
+    "publishdate": "2018-07-18T00:00:00-04:00",
+    "relpermalink": "/publication/sentometrics-abnormal-tone/",
+    "section": "publication",
+    "summary": "We propose a tone-based event study to reveal the aggregate abnormal tone dynamics in media articles around earnings announcements. We test whether they convey incremental information that is useful for price discovery for non financial S\u0026P 500 firms. The positive relationship found between the abnormal tone measure and abnormal returns suggests that media provide incremental information relative to the hard and soft information contained in earnings press releases. We also find that there is an overreaction to media abnormal tone, since the price increase associated with the abnormal tone in newspapers and web publications partially reverts in the twenty days following the announcement.",
+    "tags": [
+      "textual tone",
+      " abnormal tone",
+      "abnormal return",
+      "sentiment analysis",
+      " event-study"
+    ],
+    "title": "Media Abnormal Tone, Earnings Announcements, and the Stock Market",
+    "type": "publication"
+  },
+  {
+    "authors": [
+      "David Ardia",
+      "Keven Bluteau",
+      "Kris Boudt",
+      "Leopoldo Catania",
+      "Denis-Alexandre Trottier"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1527739200,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1527739200,
+    "objectID": "fbcb14ca069b02660e7355d0e0dae419",
+    "permalink": "/publication/msgarch-package/",
+    "publishdate": "2018-05-31T00:00:00-04:00",
+    "relpermalink": "/publication/msgarch-package/",
+    "section": "publication",
+    "summary": "We describe the package MSGARCH, which implements Markov-switching GARCH models in R with efficient C object-oriented programming. Markov-switching GARCH models have become popular methods to account for regime changes in the conditional variance dynamics of time series. The package MSGARCH allows the user to perform simulations as well as Maximum Likelihood and MCMC/Bayesian estimations of a very large class of Markov-switching GARCH-type models. The package also provides methods to make single-step and multi-step ahead forecasts of the complete conditional density of the variable of interest. Risk management tools to estimate conditional volatility, Value-at-Risk and Expected Shortfall are also available. We illustrate the broad functionality of the MSGARCH package using exchange rate and stock market return data.",
+    "tags": [
+      "GARCH",
+      "MSGARCH",
+      "Markov-switching",
+      "conditional volatility",
+      "forecasting",
+      "R software"
+    ],
+    "title": "Markov-Switching GARCH Models in R: The MSGARCH Package",
+    "type": "publication"
+  },
+  {
+    "authors": [
+      "David Ardia",
+      "Keven Bluteau",
+      "Samuel Borms",
+      "Kris Boudt"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1521604800,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1521604800,
+    "objectID": "50cec29bf0781b7ab088515ca3e36d50",
+    "permalink": "/publication/sentometrics-package/",
+    "publishdate": "2018-03-21T00:00:00-04:00",
+    "relpermalink": "/publication/sentometrics-package/",
+    "section": "publication",
+    "summary": "We provide a hands-on introduction to optimized textual sentiment indexation using the R package sentometrics. Textual sentiment analysis is increasingly used to unlock the potential information value of textual data. The sentometrics package implements an intuitive framework to efficiently compute sentiment scores of numerous texts, to aggregate the scores into multiple time series, and to use these time series to predict other variables. The workflow of the package is illustrated with a built-in corpus of news articles from two major U.S. journals to forecast the CBOE Volatility Index.",
+    "tags": [
+      "Penalized Regression",
+      "Prediction",
+      "R",
+      "sentometrics",
+      "Textual Sentiment",
+      "Time Series"
+    ],
+    "title": "The R Package sentometrics to Compute, Aggregate and Predict with Textual Sentiment",
+    "type": "publication"
+  },
+  {
+    "authors": [
+      "David Ardia",
+      "Keven Bluteau"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1501992000,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1501992000,
+    "objectID": "a39e97e01841f76f51fc1d6269c35fd5",
+    "permalink": "/publication/nsepackage/",
+    "publishdate": "2017-08-06T00:00:00-04:00",
+    "relpermalink": "/publication/nsepackage/",
+    "section": "publication",
+    "summary": "NSE is an R package for computing the numerical standard error (NSE), an estimate of the standard deviation of a simulation result if the simulation experiment were to be repeated many times. The package provides a set of wrappers around several R packages, which give access to more than thirty estimators, including batch means estimators (Geyer (1992 Section 3.2), initial sequence estimators (Geyer (1992 Equation 3.3), spectrum at zero estimators (Heidelberger and Welch (1981),Flegal and Jones (2010), heteroskedasticity and autocorrelation consistent (HAC) kernel estimators (Newey and West (1987), Andrews (1991), Andrews and Monahan (1992), Newey and West (1994), Hirukawa (2010), and bootstrap estimators Politis and Romano (1992), Politis and Romano (1994), Politis and White (2004).",
+    "tags": [
+      "bootstrap",
+      "HAC kernel",
+      " numerical standard error (NSE)",
+      "Monte Carlo",
+      "spectral density",
+      "R software"
+    ],
+    "title": "NSE: Computation of Numerical Standard Errors in R",
+    "type": "publication"
+  },
+  {
+    "authors": [
+      "David Ardia",
+      "Keven Bluteau"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1485234000,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1485234000,
+    "objectID": "65765cf4a076bc939c10a8130d5d6af7",
+    "permalink": "/publication/stresstest/",
+    "publishdate": "2017-01-24T00:00:00-05:00",
+    "relpermalink": "/publication/stresstest/",
+    "section": "publication",
+    "summary": "We propose a simple methodology to simulate scenarios from a parametric risk model while accounting for stress-test views via fully flexible probabilities (Meucci, 2010, 2013).",
+    "tags": [
+      "Fully flexible probabilities",
+      "GARCH",
+      "Stress-testing"
+    ],
+    "title": "Stress-Testing with Parametric Models and Fully Flexible Probabilities",
+    "type": "publication"
+  }
+]
