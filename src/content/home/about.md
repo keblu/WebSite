@@ -10,7 +10,6 @@ weight = 5
 # List your academic interests.
 [interests]
 interests = [
-"Sentometrics",
 "Climate Finance", 
 "Machine Learning",
 "Asset Pricing",
@@ -25,14 +24,14 @@ institution = "University of Neuchâtel and Vrije Universiteit Brussels"
 year = 2019
 
 [[education.courses]]
-course = "MBA in Finance"
+course = "MBA"
 institution = "Laval University"
 year = 2015
 
 [[education.courses]]
-course = "BSc in Finance"
+course = "Bachelor in Business Administration"
 institution = "Laval University"
-year = 2010
+year = 2013
 
 +++
 
