@@ -26,7 +26,7 @@ abstract = "We empirically test the prediction of Pastor, Stambaugh, and Taylor 
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

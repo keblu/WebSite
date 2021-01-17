@@ -37,7 +37,7 @@ year = 2013
 
 # Biography
 
-I am currently a SNSF postdoctoral researcher, focusing on how the news media (mis)inform financial markets. 
+I am a SNSF postdoctoral researcher, focusing on how the news media (mis)inform financial markets. 
 I hold a joint doctoral degree in Finance and Business Economics from the University of Neuchâtel and Vrije Universiteit Brussel. 
 
 My interests are centered around climate finance, financial machine learning (particularly regarding the use of text as data), volatility in financial markets, and alternative risk premia. I am the author and co-author of several R packages used in academic and industry finance: MSGARCH, NSE, Sentometrics, and WordPower (early stage).
