@@ -20,6 +20,9 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 
+
+
+
 [[experience]]
   title = "Quantitative Analyst"
   company = "Lakeroad asset management"
@@ -49,5 +52,10 @@ date_format = "January 2006"
   date_end = "2021-06-30"
   description = """SNSF PostDoctoral Researcher"""
   
-  
+[[experience]]
+  title = "Assistant Professor of Finance"
+  company = "Université de Sherbrooke"
+  company_url = "https://www.usherbrooke.ca//"
+  location = "Sherbrooke, Canada"
+  date_start = "2021-08-01"
 +++

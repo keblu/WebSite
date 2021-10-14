@@ -13,7 +13,7 @@ title = "Keven Bluteau"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; Keven Bluteau 2020"
+copyright = "&copy; Keven Bluteau 2021"
 
 theme = "hugo-academic"
 enableEmoji = true
@@ -56,13 +56,13 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ {name = "Ghent University", url = "" },{ name = "HEC Montréal", url = ""} ]
+  organizations = [{name = "Université de Sherbrooke", url = "" }]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "Keven Bluteau.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "Keven.Bluteau@hec.ca"
+  email = "Keven.Bluteau@usherbrooke.ca"
   skype = "kbluteau"
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).

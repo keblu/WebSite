@@ -6,8 +6,8 @@
     <description>Recent content in Tags on Keven Bluteau</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <copyright>&amp;copy; Keven Bluteau 2020</copyright>
-    <lastBuildDate>Wed, 18 Jul 2018 00:00:00 -0400</lastBuildDate>
+    <copyright>&amp;copy; Keven Bluteau 2021</copyright>
+    <lastBuildDate>Wed, 13 Oct 2021 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title> abnormal tone</title>
       <link>/tags/abnormal-tone/</link>
-      <pubDate>Wed, 18 Jul 2018 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 -0400</pubDate>
       
       <guid>/tags/abnormal-tone/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title> event-study</title>
       <link>/tags/event-study/</link>
-      <pubDate>Wed, 18 Jul 2018 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 -0400</pubDate>
       
       <guid>/tags/event-study/</guid>
       <description></description>
@@ -85,6 +85,15 @@
     </item>
     
     <item>
+      <title>Canada</title>
+      <link>/tags/canada/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/canada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Climate Change</title>
       <link>/tags/climate-change/</link>
       <pubDate>Fri, 02 Oct 2020 00:00:00 -0400</pubDate>
@@ -99,6 +108,15 @@
       <pubDate>Fri, 02 Oct 2020 00:00:00 -0400</pubDate>
       
       <guid>/tags/esg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Economic uncertainty</title>
+      <link>/tags/economic-uncertainty/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/economic-uncertainty/</guid>
       <description></description>
     </item>
     
@@ -148,6 +166,15 @@
     </item>
     
     <item>
+      <title>Issues</title>
+      <link>/tags/issues/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/issues/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>MSGARCH</title>
       <link>/tags/msgarch/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 -0400</pubDate>
@@ -184,6 +211,15 @@
     </item>
     
     <item>
+      <title>Nowcasting</title>
+      <link>/tags/nowcasting/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/nowcasting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Penalized Regression</title>
       <link>/tags/penalized-regression/</link>
       <pubDate>Wed, 21 Mar 2018 00:00:00 -0400</pubDate>
@@ -193,11 +229,29 @@
     </item>
     
     <item>
+      <title>Policy uncertainty</title>
+      <link>/tags/policy-uncertainty/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/policy-uncertainty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Prediction</title>
       <link>/tags/prediction/</link>
       <pubDate>Wed, 21 Mar 2018 00:00:00 -0400</pubDate>
       
       <guid>/tags/prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quebec</title>
+      <link>/tags/quebec/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/quebec/</guid>
       <description></description>
     </item>
     
@@ -222,7 +276,7 @@
     <item>
       <title>Sentometrics</title>
       <link>/tags/sentometrics/</link>
-      <pubDate>Fri, 02 Oct 2020 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 -0400</pubDate>
       
       <guid>/tags/sentometrics/</guid>
       <description></description>
@@ -274,6 +328,15 @@
     </item>
     
     <item>
+      <title>Token-distance-based triple</title>
+      <link>/tags/token-distance-based-triple/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/token-distance-based-triple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>US industrial production</title>
       <link>/tags/us-industrial-production/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 -0400</pubDate>
@@ -303,7 +366,7 @@
     <item>
       <title>abnormal return</title>
       <link>/tags/abnormal-return/</link>
-      <pubDate>Wed, 18 Jul 2018 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 -0400</pubDate>
       
       <guid>/tags/abnormal-return/</guid>
       <description></description>
@@ -402,7 +465,7 @@
     <item>
       <title>sentiment analysis</title>
       <link>/tags/sentiment-analysis/</link>
-      <pubDate>Sat, 30 May 2020 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 -0400</pubDate>
       
       <guid>/tags/sentiment-analysis/</guid>
       <description></description>
@@ -438,7 +501,7 @@
     <item>
       <title>textual tone</title>
       <link>/tags/textual-tone/</link>
-      <pubDate>Wed, 18 Jul 2018 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 -0400</pubDate>
       
       <guid>/tags/textual-tone/</guid>
       <description></description>

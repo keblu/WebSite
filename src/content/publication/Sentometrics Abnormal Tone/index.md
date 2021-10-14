@@ -1,6 +1,6 @@
 +++
 title = "Media Abnormal Tone, Earnings Announcements, and the Stock Market"
-date = 2018-07-18T00:00:00
+date = 2021-10-13T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,11 +18,11 @@ authors = ["David Ardia", "Keven Bluteau", "Kris Boudt"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Working paper"
-publication_short = "Working Paper"
+publication = "Journal of Financial Markets, Forthcoming"
+publication_short = "Journal of Financial Markets, Forthcoming"
 
 # Abstract and optional shortened version.
-abstract = "We propose a tone-based event study to reveal the aggregate abnormal tone dynamics in media articles around earnings announcements. We test whether they convey incremental information that is useful for price discovery for non financial S&P 500 firms. The positive relationship found between the abnormal tone measure and abnormal returns suggests that media provide incremental information relative to the hard and soft information contained in earnings press releases. We also find that there is an overreaction to media abnormal tone, since the price increase associated with the abnormal tone in newspapers and web publications partially reverts in the twenty days following the announcement."
+abstract = "We conduct a tone-based event study to examine the aggregate abnormal tone dynamics in media articles around earnings announcements. We test whether they convey incremental information that is useful for price discovery for non-financial S&P 500 firms. The relation we find between the abnormal tone and abnormal returns suggests that media articles provide incremental information relative to the information contained in earnings press releases and earnings calls."
 
 
 # Is this a selected publication? (true/false)

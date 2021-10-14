@@ -1,4 +1,6 @@
+install.packages("blogdown")
 blogdown::install_hugo("0.50", force = TRUE)
+options(blogdown.hugo.version = "0.50")
 blogdown::build_site()
 file = list.files("../",recursive = FALSE)
 file = file[!stringr::str_detect(file,"src")]

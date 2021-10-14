@@ -37,9 +37,13 @@ year = 2013
 
 # Biography
 
-I am a SNSF postdoctoral researcher, focusing on how the news media (mis)inform financial markets. 
+I am an assistant professor of finance at The Université de Sherbrooke. My research is centered around how the news media (mis)inform financial markets and how we can derive meaningful indicators in the form of indices from the news articles to help decision-makers make better financial decisions and predictions. In a nutshell, my current interests are financial machine learning (particularly regarding the use of text as data), climate finance, volatility in financial markets, and alternative risk premia.
+
 I hold a joint doctoral degree in Finance and Business Economics from the University of Neuchâtel and Vrije Universiteit Brussel. 
 
-My interests are centered around climate finance, financial machine learning (particularly regarding the use of text as data), volatility in financial markets, and alternative risk premia. I am the author and co-author of several R packages used in academic and industry finance: MSGARCH, NSE, Sentometrics, and WordPower (early stage).
+I am the author and co-author of several R packages used in academic and industry finance: MSGARCH, NSE, Sentometrics, and WordPower (early stage). 
+In my free time, I mostly spend time hiking and going to dog parks with my dog.
+
+
 
   

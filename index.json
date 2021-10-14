@@ -3,6 +3,68 @@
     "authors": [
       "David Ardia",
       "Keven Bluteau",
+      "Kris Boudt"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1634097600,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1634097600,
+    "objectID": "5f2aef4ef80fc7ba9a5f99fef32b747c",
+    "permalink": "/publication/sentometrics-abnormal-tone/",
+    "publishdate": "2021-10-13T00:00:00-04:00",
+    "relpermalink": "/publication/sentometrics-abnormal-tone/",
+    "section": "publication",
+    "summary": "We conduct a tone-based event study to examine the aggregate abnormal tone dynamics in media articles around earnings announcements. We test whether they convey incremental information that is useful for price discovery for non-financial S\u0026P 500 firms. The relation we find between the abnormal tone and abnormal returns suggests that media articles provide incremental information relative to the information contained in earnings press releases and earnings calls.",
+    "tags": [
+      "textual tone",
+      " abnormal tone",
+      "abnormal return",
+      "sentiment analysis",
+      " event-study"
+    ],
+    "title": "Media Abnormal Tone, Earnings Announcements, and the Stock Market",
+    "type": "publication"
+  },
+  {
+    "authors": [
+      "David Ardia",
+      "Keven Bluteau",
+      "Alaa Kassem"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1627790400,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1627790400,
+    "objectID": "9ac3e1d65f56beebd2779b9f9ecf9b18",
+    "permalink": "/publication/sentometrics-epuquebec/",
+    "publishdate": "2021-08-01T00:00:00-04:00",
+    "relpermalink": "/publication/sentometrics-epuquebec/",
+    "section": "publication",
+    "summary": "A novel token-distance-based triple approach is proposed for identifying EPU mentions in textual documents. The method is applied to a corpus of French-language news to construct a century-long historical EPU index for the Canadian province of Quebec. The relevance of the index is shown in a macroeconomic nowcasting experiment.",
+    "tags": [
+      "Economic uncertainty",
+      "Policy uncertainty",
+      "Canada",
+      "Quebec",
+      "Token-distance-based triple",
+      "Token-distance-based triple",
+      "Issues",
+      "Nowcasting",
+      "Sentometrics"
+    ],
+    "title": "A Century of Economic Policy Uncertainty Through the French-Canadian Lens",
+    "type": "publication"
+  },
+  {
+    "authors": [
+      "David Ardia",
+      "Keven Bluteau",
       "Kris Boudt",
       "Koen Inghelbrecht"
     ],
@@ -183,35 +245,6 @@
       "Value-at-Risk precision"
     ],
     "title": "Methods for Computing Numerical Standard Errors: Review and Application to Value-at-Risk Estimation",
-    "type": "publication"
-  },
-  {
-    "authors": [
-      "David Ardia",
-      "Keven Bluteau",
-      "Kris Boudt"
-    ],
-    "categories": null,
-    "content": "",
-    "date": 1531886400,
-    "expirydate": -62135596800,
-    "kind": "page",
-    "lang": "en",
-    "lastmod": 1531886400,
-    "objectID": "5f2aef4ef80fc7ba9a5f99fef32b747c",
-    "permalink": "/publication/sentometrics-abnormal-tone/",
-    "publishdate": "2018-07-18T00:00:00-04:00",
-    "relpermalink": "/publication/sentometrics-abnormal-tone/",
-    "section": "publication",
-    "summary": "We propose a tone-based event study to reveal the aggregate abnormal tone dynamics in media articles around earnings announcements. We test whether they convey incremental information that is useful for price discovery for non financial S\u0026P 500 firms. The positive relationship found between the abnormal tone measure and abnormal returns suggests that media provide incremental information relative to the hard and soft information contained in earnings press releases. We also find that there is an overreaction to media abnormal tone, since the price increase associated with the abnormal tone in newspapers and web publications partially reverts in the twenty days following the announcement.",
-    "tags": [
-      "textual tone",
-      " abnormal tone",
-      "abnormal return",
-      "sentiment analysis",
-      " event-study"
-    ],
-    "title": "Media Abnormal Tone, Earnings Announcements, and the Stock Market",
     "type": "publication"
   },
   {
